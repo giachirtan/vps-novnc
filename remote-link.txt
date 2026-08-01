@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://judicial-cheapest-thoroughly-salad.trycloudflare.com/vnc.html
+URL       : https://north-andy-unique-chapters.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 11:18:51
+Created   : 2026-08-01 16:03:22
 =======================================================
