@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kenny-ted-lit-cooked.trycloudflare.com/vnc.html
+URL       : https://developing-after-lakes-galaxy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 15:59:04
+Created   : 2026-08-07 20:43:12
 =======================================================
