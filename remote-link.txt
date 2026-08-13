@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://troubleshooting-formula-applicant-rules.trycloudflare.com/vnc.html
+URL       : https://arrangements-baseline-boss-psi.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 20:46:35
+Created   : 2026-08-13 02:00:43
 =======================================================
