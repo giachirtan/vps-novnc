@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://forwarding-sale-buffalo-compiled.trycloudflare.com/vnc.html
+URL       : https://envelope-director-latinas-drinks.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 01:16:24
+Created   : 2026-08-19 05:32:44
 =======================================================
