@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kingston-solo-easy-clarke.trycloudflare.com/vnc.html
+URL       : https://alfred-programme-always-angel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 01:19:25
+Created   : 2026-08-26 05:36:21
 =======================================================
