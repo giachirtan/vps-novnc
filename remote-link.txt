@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ask-price-acknowledge-alternative.trycloudflare.com/vnc.html
+URL       : https://subscriber-ted-prototype-oval.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-22 18:35:55
+Created   : 2026-09-22 22:48:09
 =======================================================
