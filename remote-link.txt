@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://offices-taking-showing-zus.trycloudflare.com/vnc.html
+URL       : https://union-science-voted-traffic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-06 05:12:36
+Created   : 2026-10-06 16:33:53
 =======================================================
