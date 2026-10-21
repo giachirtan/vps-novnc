@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://boulevard-consoles-shorter-par.trycloudflare.com/vnc.html
+URL       : https://exclusive-alert-wiley-common.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 19:11:15
+Created   : 2026-10-21 23:06:09
 =======================================================
